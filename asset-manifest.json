@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-image-shop/static/css/main.f5cf8109.chunk.css",
+    "main.js": "/the-image-shop/static/js/main.127b54b3.chunk.js",
+    "main.js.map": "/the-image-shop/static/js/main.127b54b3.chunk.js.map",
+    "runtime-main.js": "/the-image-shop/static/js/runtime-main.8e2638e2.js",
+    "runtime-main.js.map": "/the-image-shop/static/js/runtime-main.8e2638e2.js.map",
+    "static/js/2.19a8f8af.chunk.js": "/the-image-shop/static/js/2.19a8f8af.chunk.js",
+    "static/js/2.19a8f8af.chunk.js.map": "/the-image-shop/static/js/2.19a8f8af.chunk.js.map",
+    "static/js/3.8ab00b4b.chunk.js": "/the-image-shop/static/js/3.8ab00b4b.chunk.js",
+    "static/js/3.8ab00b4b.chunk.js.map": "/the-image-shop/static/js/3.8ab00b4b.chunk.js.map",
+    "index.html": "/the-image-shop/index.html",
+    "static/css/main.f5cf8109.chunk.css.map": "/the-image-shop/static/css/main.f5cf8109.chunk.css.map",
+    "static/js/2.19a8f8af.chunk.js.LICENSE.txt": "/the-image-shop/static/js/2.19a8f8af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2638e2.js",
+    "static/js/2.19a8f8af.chunk.js",
+    "static/css/main.f5cf8109.chunk.css",
+    "static/js/main.127b54b3.chunk.js"
+  ]
+}
