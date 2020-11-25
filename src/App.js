@@ -10,7 +10,7 @@ function App() {
         <div>
             <Header />
             <Switch>
-                <Route exact path="/the-image-shop/">
+                <Route exact path="/">
                     <Photos />
                 </Route>
                 
